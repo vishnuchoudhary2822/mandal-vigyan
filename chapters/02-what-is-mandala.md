@@ -108,6 +108,18 @@ Modern science में visualisation को evidential status केवल उ
 
 किसी “mandala–galaxy correspondence” को scientific claim मानने के लिए source text को unique, pre-specified physical features बताने चाहिए—जैसे defined object, scale, relation या testable prediction। फिर उन्हें independent observations से compare किया जा सकता है। वर्तमान dossier में न तो ऋग्वैदिक book-division, न political circle-of-states, और न Buddhist ritual diagram ऐसा pre-specified astronomical model उपलब्ध कराते हैं. इसलिए “मण्डल आधुनिक galaxy का पूर्वानुमान है” conclusion का evidential status **अनिर्णायक/अपर्याप्त साक्ष्य** है, न कि established science।
 
+### Cosmological और astronomical label की सीमा
+
+“cosmological” शब्द दो अलग स्तरों पर उपयोग हो सकता है। किसी religious visual में whole world, sacred realm या ordered totality का representation होना cosmological symbolism है। लेकिन यह physical cosmology का observational model तभी होगा जब text और interpretive tradition object, scale, motion या measurement को उस तरह निर्धारित करें कि वे independent testing के लिए उपलब्ध हों। Met publication का Tibetan Buddhist mandala-वर्णन पहले प्रकार—religious diagram of the universe—का evidence देता है.[^met-mandala] वह दूसरे प्रकार, अर्थात modern astronomy के data model, का evidence नहीं देता।
+
+इसी तरह “astronomical mandala” जैसे general labels को source-location के बिना इस्तेमाल नहीं किया जाएगा। Sanskrit astronomical literature में कोई compound या technical use होने का संभावित दावा, उसके text, recension, computational context और translation की जाँच के बिना इस chapter में स्थापित नहीं किया गया है। *ज्योतिर्मण्डल* और celestial ordering पर substantive textual work Chapter 11 का विषय है। इसलिए इस chapter में astronomical usage के लिए सही classification **G — अनिर्णायक / अपर्याप्त साक्ष्य** है, न कि मौन रूप से लिया गया fact।
+
+### राजमण्डल: रूपक नहीं, political model
+
+राजमण्डल को केवल “राजाओं का decorative circle” कहना भी उतना ही भ्रामक है जितना इसे galaxy map कहना। Course material और Oxford table of contents उसे *Arthaśāstra* के statecraft and interstate-relations discussion में रखते हैं.[^inflibnet-artha][^olivelle-artha] यहाँ spatial language relations को organise करती है: यह political analysis का domain है। उसका circle-form किसी sacred visual से तुलना के लिए रोचक analogy बन सकता है, पर analogy से shared origin या shared metaphysical claim सिद्ध नहीं होता।
+
+यह difference भारतीय intellectual history को छोटे खानों में बाँटने के लिए नहीं, बल्कि उसके genres को गंभीरता से लेने के लिए है। एक ही Sanskrit lexeme literary compilation, polity, ritual practice और visual culture में productive हो सकता है। उस बहुलता को स्वीकारना “meaninglessness” नहीं है; यह उस evidence का सम्मान है जो हर use के लिए अलग है।
+
 ## तुलना तालिका
 
 | विषय | पुराणिक कथन | पारम्परिक व्याख्या | आधुनिक वैज्ञानिक दृष्टि | प्रमाण/स्रोत |
@@ -160,6 +172,7 @@ Modern science में visualisation को evidential status केवल उ
 
 - एक peer-reviewed philological study और verified Sanskrit lexicon/critical edition citation जोड़ना शेष है।
 - Puranic, Buddhist और Tantric contexts का historical relationship यहाँ अभी स्थापित नहीं किया गया है।
+- Sanskrit astronomical texts में *maṇḍala* compounds के exact occurrences और technical meaning को source-by-source verify करना शेष है; जब तक वह नहीं होता, astronomical equivalence का दावा नहीं किया जाएगा।
 
 ## Frequently Asked Questions
 
@@ -185,6 +198,8 @@ Modern science में visualisation को evidential status केवल उ
 
 ## Further Reading
 
+- Kurt Behrendt, Christian Luczanits, and Amy Heller, *Mandalas: Mapping the Buddhist Art of Tibet* (Metropolitan Museum of Art, 2024).[^met-mandala]
+- Patrick Olivelle, *King, Governance, and Law in Ancient India: Kautilya’s Arthaśāstra* (Oxford University Press, 2013).[^olivelle-artha]
 - A critical edition and peer-reviewed philological study of *maṇḍala* usages will be added only after source verification.
 
 ## Next Chapter Preview
