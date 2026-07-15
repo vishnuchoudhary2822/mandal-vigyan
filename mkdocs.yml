@@ -1,8 +1,8 @@
 site_name: "मण्डल विज्ञान | MANDAL VIGYAN"
 site_description: "पुराणिक ब्रह्माण्ड-विज्ञान और आधुनिक विज्ञान का स्रोत-आधारित अध्ययन"
-site_url: "https://YOUR-GITHUB-USERNAME.github.io/MANDALVIGYAN/"
-repo_name: "YOUR-GITHUB-USERNAME/MANDALVIGYAN"
-repo_url: "https://github.com/YOUR-GITHUB-USERNAME/MANDALVIGYAN"
+site_url: "https://vishnuchoudhary2822.github.io/mandal-vigyan/"
+repo_name: "vishnuchoudhary2822/mandal-vigyan"
+repo_url: "https://github.com/vishnuchoudhary2822/mandal-vigyan"
 edit_uri: edit/main/
 docs_dir: docs
 site_dir: site
@@ -34,6 +34,9 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 extra_css: [stylesheets/print.css, assets/stylesheets/visuals.css]
+extra:
+  generator: false
+copyright: "Copyright &copy; 2026 Vishnu Choudhary · MANDAL VIGYAN"
 nav:
   - मुखपृष्ठ: index.md
   - विषय-सूची: summary.md

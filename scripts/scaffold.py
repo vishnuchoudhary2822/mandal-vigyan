@@ -107,7 +107,12 @@ def write_if_missing(path: Path, text: str) -> None:
 
 def sync_copy(source: Path, destination: Path) -> None:
     """Mirror publication Markdown into MkDocs' required docs directory."""
-    destination.write_text(source.read_text(encoding="utf-8"), encoding="utf-8")
+    content = source.read_text(encoding="utf-8")
+    # Canonical chapters live one directory above docs/ and therefore use
+    # ../docs/assets/. Published copies live in docs/chapters/ and must use
+    # ../assets/ so MkDocs can resolve and publish the SVG files.
+    content = content.replace("../docs/assets/", "../assets/")
+    destination.write_text(content, encoding="utf-8")
 
 def main() -> None:
     summary = ["# विषय-सूची", "", "यह प्रकाशन-अवसंरचना है; chapter templates में अभी शोध-गद्य नहीं है।", ""]

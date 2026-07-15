@@ -176,15 +176,13 @@ ISKCON cosmology पर अध्याय अलग रखा गया है 
 
 ## आरेख
 
-<figure class="research-figure">
-  <img src="../assets/diagrams/ch01-research-method.svg" alt="शास्त्रीय वर्णन, पारम्परिक व्याख्या, ऐतिहासिक विद्वत्ता और वैज्ञानिक प्रमाण को अलग रखकर प्रश्न-विशिष्ट तुलना तक ले जाता हुआ प्रवाह-आरेख।">
-  <figcaption><strong>चित्र 1.1 — तुलनात्मक शोध की स्रोत-पृथक्करण पद्धति</strong><br>विवरण: चार अलग evidence domains और सीमित निष्कर्ष तक पहुँचने की पद्धति।<br>श्रेणी: शोध-पद्धति का मूल आरेख।<br>स्रोत: Original diagram; attribution register देखें।<br>पैमाना: लागू नहीं।</figcaption>
-</figure>
+![शास्त्रीय वर्णन, पारम्परिक व्याख्या, ऐतिहासिक विद्वत्ता और वैज्ञानिक प्रमाण को अलग रखकर प्रश्न-विशिष्ट तुलना तक ले जाता हुआ प्रवाह-आरेख।](../assets/diagrams/ch01-research-method.svg)
 
-<figure class="research-figure">
-  <img src="../assets/diagrams/ch01-claim-audit.svg" alt="किसी श्लोक और आधुनिक वैज्ञानिक सिद्धान्त के कथित मेल की जाँच के छह चरणों का flowchart।">
-  <figcaption><strong>चित्र 1.2 — असाधारण तुलनात्मक दावे की जाँच</strong><br>विवरण: पाठ-स्रोत, व्याकरण, व्याख्या, scientific claim, मापनीय correspondence और स्वतंत्र परीक्षण की audit श्रृंखला।<br>श्रेणी: शोध-पद्धति का मूल आरेख।<br>स्रोत: Original diagram; attribution register देखें।<br>पैमाना: लागू नहीं।</figcaption>
-</figure>
+**चित्र 1.1 — तुलनात्मक शोध की स्रोत-पृथक्करण पद्धति.** श्रेणी: शोध-पद्धति का मूल आरेख। स्रोत: Original diagram; attribution register देखें। पैमाना: लागू नहीं।
+
+![किसी श्लोक और आधुनिक वैज्ञानिक सिद्धान्त के कथित मेल की जाँच के छह चरणों का flowchart।](../assets/diagrams/ch01-claim-audit.svg)
+
+**चित्र 1.2 — असाधारण तुलनात्मक दावे की जाँच.** श्रेणी: शोध-पद्धति का मूल आरेख। स्रोत: Original diagram; attribution register देखें। पैमाना: लागू नहीं।
 
 ## सन्दर्भ
 
@@ -271,4 +269,4 @@ Traditional commentators के मतों को उनके doctrinal setti
 
 ## विस्तारित निष्कर्ष
 
-इस अध्याय की पद्धति आगे के chapters को धीमा कर सकती है, पर वही उसकी विश्वसनीयता की शर्त है। तेज़ उत्तर और dramatic equivalence पाठक को आकर्षित कर सकते हैं; वे history, language और evidence की कीमत पर नहीं खरीदे जाएँगे। मण्डल विज्ञान में किसी परम्परा की गरिमा उसके लिए अप्रमाणित उपलब्धियाँ गढ़ने से नहीं, बल्कि उसके वास्तविक texts, practices और intellectual questions को सावधानी से पढ़ने से बढ़ती है। आधुनिक science की गरिमा भी उसे metaphysical घोषणापत्र बना देने में नहीं, बल्कि उसके data, uncertainty और self-correcting methods को समझने में है.
+इस अध्याय की पद्धति आगे के chapters को धीमा कर सकती है, पर वही उसकी विश्वसनीयता की शर्त है। तेज़ उत्तर और dramatic equivalence पाठक को आकर्षित कर सकते हैं; वे history, language और evidence की कीमत पर नहीं खरीदे जाएँगे। मण्डल विज्ञान में किसी परम्परा की गरिमा उसके लिए अप्रमाणित उपलब्धियाँ गढ़ने से नहीं, बल्कि उसके वास्तविक texts, practices और intellectual questions को सावधानी से पढ़ने से बढ़ती है। आधुनिक science की गरिमा भी उसे metaphysical घोषणापत्र बना देने में नहीं, बल्कि उसके data, uncertainty और self-correcting methods को समझने में है।

@@ -142,15 +142,13 @@ Modern science में visualisation को evidential status केवल उ
 
 ## आरेख
 
-<figure class="research-figure">
-  <img src="../assets/diagrams/ch02-mandala-meaning-map.svg" alt="मण्डल शब्द के ऋग्वैदिक पुस्तक-विभाजन, अनुष्ठान-दर्शन और चित्रात्मक तुलनात्मक प्रयोगों को अलग दिखाता concept map।">
-  <figcaption><strong>चित्र 2.1 — मण्डल: सन्दर्भ-निर्भर अर्थों का मानचित्र</strong><br>विवरण: एक शब्द के अलग textual और interpretive contexts; कोई cosmological identity दावा नहीं।<br>श्रेणी: स्रोत-सम्बन्ध का मूल concept map।<br>स्रोत: Original diagram; attribution register देखें।<br>पैमाना: लागू नहीं।</figcaption>
-</figure>
+![मण्डल शब्द के ऋग्वैदिक पुस्तक-विभाजन, अनुष्ठान-दर्शन और चित्रात्मक तुलनात्मक प्रयोगों को अलग दिखाता concept map।](../assets/diagrams/ch02-mandala-meaning-map.svg)
 
-<figure class="research-figure">
-  <img src="../assets/diagrams/ch02-usage-boundaries.svg" alt="मण्डल के ऋग्वैदिक, राजनीतिक, Buddhist ritual और modern-popular uses को अलग प्रमाण-सीमाओं में रखता हुआ चार-खण्ड diagram।">
-  <figcaption><strong>चित्र 2.2 — मण्डल: उपयोग और प्रमाण-सीमाएँ</strong><br>विवरण: एक usage का evidence दूसरे usage या modern scientific claim में स्वतः स्थानांतरित नहीं होता।<br>श्रेणी: स्रोत-सम्बन्ध का मूल matrix।<br>स्रोत: Original diagram; attribution register देखें।<br>पैमाना: लागू नहीं।</figcaption>
-</figure>
+**चित्र 2.1 — मण्डल: सन्दर्भ-निर्भर अर्थों का मानचित्र.** श्रेणी: स्रोत-सम्बन्ध का मूल concept map। स्रोत: Original diagram; attribution register देखें। पैमाना: लागू नहीं।
+
+![मण्डल के ऋग्वैदिक, राजनीतिक, Buddhist ritual और modern-popular uses को अलग प्रमाण-सीमाओं में रखता हुआ चार-खण्ड diagram।](../assets/diagrams/ch02-usage-boundaries.svg)
+
+**चित्र 2.2 — मण्डल: उपयोग और प्रमाण-सीमाएँ.** विवरण: एक usage का evidence दूसरे usage या modern scientific claim में स्वतः स्थानांतरित नहीं होता। श्रेणी: स्रोत-सम्बन्ध का मूल matrix। स्रोत: Original diagram; attribution register देखें। पैमाना: लागू नहीं।
 
 ## सन्दर्भ
 
