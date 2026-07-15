@@ -122,11 +122,22 @@ Modern science में visualisation को evidential status केवल उ
 !!! warning "पद्धति"
     आस्था, रूपक और अनुभवजन्य वैज्ञानिक दावे अलग रखें। अपर्याप्त प्रमाण को **Evidence Inconclusive** लिखें।
 
+### Semantic conflation की जाँच
+
+चार shortcuts इस विषय को भ्रमित करते हैं। पहला, “circle” gloss से यह निष्कर्ष कि सभी *maṇḍala* geometric drawings हैं। दूसरा, cosmic symbolism से यह निष्कर्ष कि diagram observed physical cosmos की scale-map है। तीसरा, *rāja-maṇḍala* के “circle” को devotional mandala के deity-centred structure के समान मानना। चौथा, किसी later visual practice को ancient Vedic passage का direct exposition कहना। उपलब्ध sources इन shortcuts के बजाय अलग textual, ritual और political contexts दर्शाते हैं.[^vh-rigveda][^eob-mandala][^inflibnet-artha]
+
+इस chapter का comparative outcome इसलिए negative नहीं बल्कि disciplined है। *मण्डल* एक productive comparative term हो सकता है, जब comparison का प्रकार स्पष्ट हो: textual organisation की तुलना corpus architecture से, political circle-model की relation-model से, और ritual diagram की religious visualisation से। किन्तु analogy को historical descent, physical identity या scientific prediction कहना अलग और अधिक मजबूत evidence माँगता है।
+
 ## आरेख
 
 <figure class="research-figure">
   <img src="../assets/diagrams/ch02-mandala-meaning-map.svg" alt="मण्डल शब्द के ऋग्वैदिक पुस्तक-विभाजन, अनुष्ठान-दर्शन और चित्रात्मक तुलनात्मक प्रयोगों को अलग दिखाता concept map।">
   <figcaption><strong>चित्र 2.1 — मण्डल: सन्दर्भ-निर्भर अर्थों का मानचित्र</strong><br>विवरण: एक शब्द के अलग textual और interpretive contexts; कोई cosmological identity दावा नहीं।<br>श्रेणी: स्रोत-सम्बन्ध का मूल concept map।<br>स्रोत: Original diagram; attribution register देखें।<br>पैमाना: लागू नहीं।</figcaption>
+</figure>
+
+<figure class="research-figure">
+  <img src="../assets/diagrams/ch02-usage-boundaries.svg" alt="मण्डल के ऋग्वैदिक, राजनीतिक, Buddhist ritual और modern-popular uses को अलग प्रमाण-सीमाओं में रखता हुआ चार-खण्ड diagram।">
+  <figcaption><strong>चित्र 2.2 — मण्डल: उपयोग और प्रमाण-सीमाएँ</strong><br>विवरण: एक usage का evidence दूसरे usage या modern scientific claim में स्वतः स्थानांतरित नहीं होता।<br>श्रेणी: स्रोत-सम्बन्ध का मूल matrix।<br>स्रोत: Original diagram; attribution register देखें।<br>पैमाना: लागू नहीं।</figcaption>
 </figure>
 
 ## सन्दर्भ
