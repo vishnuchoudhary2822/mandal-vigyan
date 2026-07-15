@@ -86,25 +86,36 @@ Lexical range और किसी passage का actual meaning अलग प्
 
 ### पुराणिक कथन
 
-<!-- स्रोत के शब्दों/दावों का सीमित वर्णन; citation आवश्यक। -->
+इस chapter में कोई पुराणिक passage उद्धृत नहीं किया गया है। इसका कारण यह नहीं कि पुराणिक cosmography में *भू-मण्डल* या संबंधित compounds अप्रासंगिक हैं; कारण यह है कि compound के किसी घटक का lexical अर्थ पूरे compound के referent को निर्धारित नहीं करता। किसी पुराण के context, commentary और textual location के बिना “मण्डल = physical universe” कहना इस अध्याय की स्रोत-नीति के विरुद्ध होगा। उन claims का primary-text examination chapters 08 और 11 में होना चाहिए।
 
 ### पारम्परिक व्याख्या
 
-<!-- आचार्य/सम्प्रदाय/टीकाकार का नाम और स्रोत स्पष्ट करें। -->
+Buddhist usages में mandala का केन्द्र, परिधि, deity-retinue और ritual practice से सम्बन्ध हो सकता है; यह केवल flat geometry नहीं है.[^eob-mandala] Met publication जिस “diagram of the universe” की बात करती है, वह Tibetan Buddhist religious practice में true reality को map करने की devotional-ritual vocabulary है.[^met-mandala] उसे “modern universe का observational chart” पढ़ना category error होगा। उसी तरह, किसी later Hindu/Tantric visual usage को ऋग्वेद के book-divisions पर वापस आरोपित करना historical inference नहीं, एक अतिरिक्त hypothesis है जिसे independent evidence चाहिए।
+
+यह distinction पारम्परिक अर्थ को कम नहीं करता। Ritual diagram का कार्य साधक की attention, invocation, orientation अथवा sacred space को organise करना हो सकता है। पर उस कार्य को तभी समझा जा सकता है जब उसे उसके practice और commentary के साथ पढ़ा जाए, न कि केवल modern scientific vocabulary में अनुवादित करके।
+
+### ऐतिहासिक विद्वत्ता
+
+Historical scholarship का पहला योगदान chronology को सरल कथा बनने से रोकना है। *Arthaśāstra* के date, compositional history और authorship पर प्रश्न बने हुए हैं; Olivelle का introduction इन्हें अलग scholarly problems के रूप में रखता है.[^olivelle-artha] अतः राजमण्डल को “Chanakya ने fourth century BCE में खोजा हुआ eternal geopolitical law” लिखना स्रोत से अधिक दावा होगा। इसके बजाय सुरक्षित निष्कर्ष यह है कि उपलब्ध *Arthaśāstra* tradition में Book 6 state relations के circle-model को व्यवस्थित करती है.[^inflibnet-artha][^olivelle-artha]
+
+दूसरा योगदान semantic development को visible बनाना है। एक शब्द का long afterlife होना continuity of spelling दिखाता है, continuity of one technical meaning नहीं। ऋग्वैदिक citation-label, statecraft model, visual/ritual configuration और later popular art—इनमें overlap या historical connection कहीं-कहीं हो सकता है; पर प्रत्येक connection को sources से दिखाना होगा। इस chapter की वर्तमान evidence-base उन connections का exhaustive genealogy स्थापित नहीं करती। **साक्ष्य अभी अनिर्णायक हैं।**
 
 ### आधुनिक वैज्ञानिक दृष्टि
 
-<!-- peer-reviewed अथवा institutional source पर आधारित वर्णन। -->
+Modern science में visualisation को evidential status केवल उसके data, method, scale और uncertainty से मिलता है। उदाहरण के लिए astronomical image किसी wavelength, telescope, processing method और coordinate convention से जुड़ी होती है; उसका circular composition उसे mandala नहीं बनाता। उलटे, sacred visual में symmetry या centre का होना उसे observational measurement नहीं बनाता। यह chapter modern astronomy का survey नहीं देता; उसका निष्कर्ष केवल इतना है कि visual resemblance को empirical equivalence नहीं माना जा सकता।
 
 ## वैज्ञानिक विश्लेषण
 
-<!-- विधि, प्रेक्षण, सीमाएँ और evidence level लिखें। असंगत प्रमाण: Evidence Inconclusive. -->
+किसी “mandala–galaxy correspondence” को scientific claim मानने के लिए source text को unique, pre-specified physical features बताने चाहिए—जैसे defined object, scale, relation या testable prediction। फिर उन्हें independent observations से compare किया जा सकता है। वर्तमान dossier में न तो ऋग्वैदिक book-division, न political circle-of-states, और न Buddhist ritual diagram ऐसा pre-specified astronomical model उपलब्ध कराते हैं. इसलिए “मण्डल आधुनिक galaxy का पूर्वानुमान है” conclusion का evidential status **अनिर्णायक/अपर्याप्त साक्ष्य** है, न कि established science।
 
 ## तुलना तालिका
 
 | विषय | पुराणिक कथन | पारम्परिक व्याख्या | आधुनिक वैज्ञानिक दृष्टि | प्रमाण/स्रोत |
 | --- | --- | --- | --- | --- |
-| <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
+| ऋग्वैदिक मण्डल | इस chapter में cosmographic assertion नहीं | लागू नहीं | scientific object नहीं | textual organisation[^vh-rigveda] |
+| Buddhist visual mandala | कोई Puranic claim नहीं | ritual/meditative sacred realm | observational astronomy नहीं | scholarly orientation[^eob-mandala][^met-mandala] |
+| राजमण्डल | Puranic cosmology नहीं | political-statecraft model | astronomy से direct comparison नहीं | Book 6 context[^inflibnet-artha][^olivelle-artha] |
+| galaxy–mandala equivalence | verified scriptural basis प्रस्तुत नहीं | modern popular reinterpretation हो सकती है | testable correspondence अनुपस्थित | साक्ष्य अभी अनिर्णायक हैं |
 
 ## महत्वपूर्ण टिप्पणियाँ
 
@@ -123,12 +134,12 @@ Lexical range और किसी passage का actual meaning अलग प्
 
 ## सारांश
 
-<!-- स्रोतों के आधार पर संक्षिप्त निष्कर्ष; नए दावे नहीं। -->
+*मण्डल* को इस chapter में एक single scientific या theological code नहीं माना गया। ऋग्वेद में verified usage textual organisation है; Buddhist material ritual-visual and devotional use की दिशा देता है; *Arthaśāstra* political relations के circle-model की ओर ले जाती है। इन domains को अलग रखना tradition को घटाना नहीं, बल्कि हर source को उसके अपने evidence और function के साथ पढ़ना है।
 
 ## प्रश्न
 
-1. <!-- स्रोत-आधारित अध्ययन प्रश्न -->
-2. <!-- तुलनात्मक/पद्धतिगत प्रश्न -->
+1. किस अतिरिक्त primary text और philological evidence के बाद ऋग्वैदिक और later ritual uses के historical relation पर मजबूत दावा किया जा सकेगा?
+2. किसी sacred diagram और scientific visualisation के बीच comparison को testable बनाने के लिए कौन-से conditions आवश्यक हैं?
 
 ## Key Takeaways
 
