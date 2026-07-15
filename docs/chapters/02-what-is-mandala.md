@@ -50,11 +50,17 @@
 
 ## परिचय
 
-<!-- इस chapter की सीमा, प्रश्न और पाठक-उद्देश्य लिखें। प्रत्येक तथ्यात्मक दावे का citation दें। -->
+*मण्डल* (IAST: *maṇḍala*) इस पुस्तक का शीर्षक-शब्द है, पर इसे एक ही आकर्षक अर्थ में बाँधना सबसे बड़ा जोखिम है। आधुनिक हिन्दी में यह कभी आकृति, कभी धार्मिक diagram और कभी “ब्रह्माण्ड का प्रतीक” कहलाता है; संस्कृत पाठों में इसके उपयोग अधिक विविध हैं। इस अध्याय का लक्ष्य किसी dictionary gloss को अंतिम अर्थ बनाना नहीं, बल्कि यह दिखाना है कि referent पाठ, genre, काल और practice के साथ बदलता है। यह [अध्याय 01](01-introduction.md) की source-separation पद्धति का शब्द-स्तरीय प्रयोग है।
+
+Lexical range और किसी passage का actual meaning अलग प्रश्न हैं। “वृत्त” या “चक्र” जैसा gloss उपयोगी शुरुआत हो सकता है, किन्तु उससे यह निष्कर्ष नहीं निकलता कि हर *मण्डल* गोल है, हर गोल आकृति ritual mandala है, या हर ritual mandala modern astronomical map है।
 
 ## इतिहास
 
-<!-- कालक्रम/पाठ-इतिहास; स्रोत आवश्यक। -->
+ऋग्वेद की received Śākala Saṃhitā को Vedic Heritage Portal दस *मण्डल*ों में व्यवस्थित compilation के रूप में प्रस्तुत करता है और RV 3.16.7 जैसे citation को “third maṇḍala, sixteenth sūkta, seventh mantra” की reference convention से समझाता है.[^vh-rigveda] इस सीमित, सत्यापनीय अर्थ में *मण्डल* textual/book division है। यह evidence किसी visual diagram, inner cosmos या physical universe के लिए नहीं है।
+
+बाद के Indian religious traditions में mandala का ritual और visual usage प्रभावशाली है, पर उसका historical relation ऋग्वैदिक book-label से केवल समान spelling के कारण सिद्ध नहीं होता। Buddhist reference literature इसे centre/periphery और ritual diagram/साधना के कई usages में रखती है.[^eob-mandala] Metropolitan Museum की scholarly publication Tibetan Buddhist mandala को religious practice के लिए “diagram of the universe” कहती है; यह उस visual-religious tradition का description है, न कि ऋग्वेद के सभी मण्डलों की definition.[^met-mandala]
+
+राजनीतिक literature में *rāja-maṇḍala* तीसरा अलग domain है। INFLIBNET के academic material के अनुसार *Arthaśāstra* के sixth *adhikaraṇa* में Maṇḍala Theory आती है; Oxford edition में Book Six का शीर्षक “Basis of the Circle” है.[^inflibnet-artha][^olivelle-artha] यहाँ circle states और relations की analytic arrangement है, sacred diagram या galaxy नहीं।
 
 ## संस्कृत स्रोत
 
@@ -62,7 +68,7 @@
 
 ## मूल संस्कृत
 
-<!-- केवल सत्यापित पाठ, edition citation सहित। -->
+इस chapter के लिए exact Sanskrit passage और critical-edition verification अभी पर्याप्त नहीं है; इसलिए कोई verse यहाँ visual authority के लिए उद्धृत नहीं किया गया है। **साक्ष्य अभी अनिर्णायक हैं।**
 
 ## हिन्दी अनुवाद
 
@@ -72,7 +78,9 @@
 
 | शब्द | व्याकरण/अर्थ | स्रोत |
 | --- | --- | --- |
-| <!-- --> | <!-- --> | <!-- --> |
+| *maṇḍala* | context-dependent noun; single equivalent नहीं | अलग स्रोतों में अलग usage[^vh-rigveda][^eob-mandala] |
+| ऋग्वैदिक मण्डल | संहिता का textual/book division | Vedic Heritage Portal[^vh-rigveda] |
+| राजमण्डल | states/relations का political circle-model | *Arthaśāstra* Book 6 context[^inflibnet-artha][^olivelle-artha] |
 
 ## व्याख्या
 
@@ -148,6 +156,12 @@
 [^vh-rigveda]: Indira Gandhi National Centre for the Arts, Vedic Heritage Portal, “[ऋग्वेद संहिता / Rigveda Samhita](https://vedicheritage.gov.in/hi/samhitas/rigveda/).” Accessed 16 July 2026. The portal states the ten-maṇḍala division and gives RV 3.16.7 as an example of its reference convention.
 
 [^eob-mandala]: Encyclopedia of Buddhism, “[Mandala](https://encyclopediaofbuddhism.org/wiki/Mandala).” Accessed 16 July 2026. Secondary orientation for Buddhist terminology; it is not used here as evidence for Vedic or Puranic textual meaning.
+
+[^met-mandala]: Kurt Behrendt, Christian Luczanits, and Amy Heller, *Mandalas: Mapping the Buddhist Art of Tibet* (Metropolitan Museum of Art, 2024), publication description, https://www.metmuseum.org/met-publications/mandalas-mapping-the-buddhist-art-of-tibet. Accessed 16 July 2026.
+
+[^inflibnet-artha]: INFLIBNET Centre, “[Arthaśāstra](https://ebooks.inflibnet.ac.in/icp05/chapter/arthasastra/).” Accessed 16 July 2026. The course material identifies the sixth *adhikaraṇa* as the place where Maṇḍala Theory is taken up.
+
+[^olivelle-artha]: Patrick Olivelle, *King, Governance, and Law in Ancient India: Kautilya’s Arthaśāstra* (Oxford University Press, 2013), table of contents and introduction, https://doi.org/10.1093/acprof:osobl/9780199891825.001.0001. Accessed 16 July 2026.
 
 ## Further Reading
 
