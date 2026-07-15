@@ -1,0 +1,26 @@
+name: Build PDF and EPUB
+
+on:
+  workflow_dispatch:
+  release:
+    types: [published]
+
+permissions:
+  contents: write
+
+jobs:
+  build-books:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex fonts-noto-core
+      - run: python scripts/scaffold.py
+      - run: python scripts/validate_markdown.py
+      - run: python scripts/build_book.py
+      - uses: actions/upload-artifact@v4
+        with: {name: mandal-vigyan-books, path: "pdf/*.pdf\nepub/*.epub"}
+      - if: github.event_name == 'release'
+        uses: softprops/action-gh-release@v2
+        with: {files: "pdf/*.pdf\nepub/*.epub"}

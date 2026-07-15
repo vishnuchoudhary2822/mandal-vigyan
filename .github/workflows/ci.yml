@@ -1,0 +1,24 @@
+name: Validate manuscript
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install -r requirements.txt
+      - run: python scripts/scaffold.py
+      - run: python scripts/validate_markdown.py
+      - run: mkdocs build --strict
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --exclude-mail README.md SUMMARY.md chapters/ appendix/

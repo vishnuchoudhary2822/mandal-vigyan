@@ -1,0 +1,17 @@
+[book]
+title = "मण्डल विज्ञान — Puranic Cosmology vs Modern Science"
+authors = ["MANDAL VIGYAN Contributors"]
+language = "hi"
+multilingual = false
+src = "."
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+
+[output.pdf]
+paper-size = "a4"

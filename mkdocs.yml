@@ -1,0 +1,81 @@
+site_name: "मण्डल विज्ञान | MANDAL VIGYAN"
+site_description: "पुराणिक ब्रह्माण्ड-विज्ञान और आधुनिक विज्ञान का स्रोत-आधारित अध्ययन"
+site_url: "https://YOUR-GITHUB-USERNAME.github.io/MANDALVIGYAN/"
+repo_name: "YOUR-GITHUB-USERNAME/MANDALVIGYAN"
+repo_url: "https://github.com/YOUR-GITHUB-USERNAME/MANDALVIGYAN"
+edit_uri: edit/main/
+docs_dir: docs
+site_dir: site
+exclude_docs: |
+  README.md
+theme:
+  name: material
+  language: hi
+  font: {text: Noto Sans Devanagari, code: Noto Sans Devanagari}
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle: {icon: material/weather-night, name: गहरा रंगरूप चुनें}
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle: {icon: material/weather-sunny, name: हल्का रंगरूप चुनें}
+  features: [navigation.tabs, navigation.sections, navigation.top, search.suggest, search.highlight, content.action.edit, content.code.copy]
+plugins:
+  - search:
+      lang: [hi, en]
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+extra_css: [stylesheets/print.css]
+nav:
+  - मुखपृष्ठ: index.md
+  - विषय-सूची: summary.md
+  - अध्याय:
+    - 01. परिचय: chapters/01-introduction.md
+    - 02. मण्डल क्या है: chapters/02-what-is-mandala.md
+    - 03. वेदों के अनुसार ब्रह्माण्ड: chapters/03-universe-according-to-vedas.md
+    - 04. नासदीय सूक्त: chapters/04-nasadiya-sukta.md
+    - 05. हिरण्यगर्भ: chapters/05-hiranyagarbha.md
+    - 06. ब्रह्माण्ड: chapters/06-brahmanda.md
+    - 07. चौदह लोक: chapters/07-fourteen-lokas.md
+    - 08. भू-मण्डल: chapters/08-bhu-mandala.md
+    - 09. सप्त-द्वीप: chapters/09-sapta-dvipa.md
+    - 10. मेरु पर्वत: chapters/10-meru-mountain.md
+    - 11. ज्योतिर्मण्डल: chapters/11-jyotir-mandala.md
+    - 12. सूर्य: chapters/12-surya.md
+    - 13. चन्द्र: chapters/13-chandra.md
+    - 14. नक्षत्र: chapters/14-nakshatra.md
+    - 15. ग्रह: chapters/15-graha.md
+    - 16. काल: chapters/16-time.md
+    - 17. कल्प: chapters/17-kalpa.md
+    - 18. मन्वन्तर: chapters/18-manvantara.md
+    - 19. युग: chapters/19-yuga.md
+    - 20. पृथ्वी: chapters/20-earth.md
+    - 21. समतल पृथ्वी के दावे: chapters/21-flat-earth-claims.md
+    - 22. इस्कॉन ब्रह्माण्ड-विज्ञान: chapters/22-iskcon-cosmology.md
+    - 23. आधुनिक खगोल-विज्ञान: chapters/23-modern-astronomy.md
+    - 24. आकाशगंगा: chapters/24-galaxy.md
+    - 25. क्षीर-पथ आकाशगंगा: chapters/25-milky-way.md
+    - 26. कृष्ण विवर: chapters/26-black-holes.md
+    - 27. डार्क मैटर: chapters/27-dark-matter.md
+    - 28. डार्क एनर्जी: chapters/28-dark-energy.md
+    - 29. आयाम: chapters/29-dimensions.md
+    - 30. चेतना: chapters/30-consciousness.md
+    - 31. आत्मा: chapters/31-soul.md
+    - 32. वैकुण्ठ: chapters/32-vaikuntha.md
+    - 33. गोलोक: chapters/33-goloka.md
+    - 34. वैज्ञानिक तुलना: chapters/34-scientific-comparison.md
+    - 35. सामान्य भ्रांतियाँ: chapters/35-common-misconceptions.md
+    - 36. अक्सर पूछे जाने वाले प्रश्न: chapters/36-faqs.md
+    - 37. सन्दर्भ: chapters/37-references.md
+    - 38. शब्दावली: chapters/38-glossary.md
+    - 39. परिशिष्ट: chapters/39-appendix.md
+  - योगदान: contributing.md
+  - आचार संहिता: code-of-conduct.md

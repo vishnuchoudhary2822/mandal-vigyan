@@ -1,0 +1,9 @@
+site/
+book/
+.venv/
+__pycache__/
+*.py[cod]
+pdf/*.pdf
+epub/*.epub
+!pdf/.gitkeep
+!epub/.gitkeep
