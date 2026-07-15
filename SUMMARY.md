@@ -1,9 +1,9 @@
 # विषय-सूची
 
-यह प्रकाशन-अवसंरचना है; chapter templates में अभी शोध-गद्य नहीं है।
+यह source-first research book है। पूर्ण अध्यायों को **पूर्ण** और कार्याधीन अध्यायों को **कार्याधीन** चिह्नित किया गया है।
 
-- [01. परिचय — Introduction](chapters/01-introduction.md)
-- [02. मण्डल क्या है — What is Mandala](chapters/02-what-is-mandala.md)
+- [01. परिचय — Introduction (पूर्ण)](chapters/01-introduction.md)
+- [02. मण्डल क्या है — What is Mandala (कार्याधीन)](chapters/02-what-is-mandala.md)
 - [03. वेदों के अनुसार ब्रह्माण्ड — Universe according to Vedas](chapters/03-universe-according-to-vedas.md)
 - [04. नासदीय सूक्त — Nasadiya Sukta](chapters/04-nasadiya-sukta.md)
 - [05. हिरण्यगर्भ — Hiranyagarbha](chapters/05-hiranyagarbha.md)

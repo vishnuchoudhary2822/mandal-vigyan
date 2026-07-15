@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">तुलनात्मक शोध की स्रोत-पृथक्करण पद्धति</title>
+  <desc id="desc">चार अलग स्रोत-क्षेत्रों को अलग रखते हुए प्रश्न और निष्कर्ष तक पहुँचने वाला मूल प्रवाह-आरेख।</desc>
+  <rect width="1200" height="720" fill="#f8fafc"/><style>text{font-family:'Noto Sans Devanagari','Noto Sans',sans-serif;fill:#102a43}.h{font-size:28px;font-weight:700}.b{font-size:22px}.s{font-size:18px}.box{stroke-width:3;rx:18}.arrow{stroke:#486581;stroke-width:4;fill:none;marker-end:url(#a)}</style>
+  <defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12Z" fill="#486581"/></marker></defs>
+  <text x="600" y="52" text-anchor="middle" class="h">चित्र 1.1 — तुलनात्मक शोध की स्रोत-पृथक्करण पद्धति</text>
+  <rect x="50" y="110" width="250" height="170" fill="#e0f2fe" stroke="#0369a1" class="box"/><text x="175" y="155" text-anchor="middle" class="h">शास्त्रीय वर्णन</text><text x="175" y="195" text-anchor="middle" class="b">मूल पाठ • संस्करण</text><text x="175" y="225" text-anchor="middle" class="b">अध्याय/श्लोक</text>
+  <rect x="335" y="110" width="250" height="170" fill="#ede9fe" stroke="#6d28d9" class="box"/><text x="460" y="155" text-anchor="middle" class="h">पारम्परिक व्याख्या</text><text x="460" y="195" text-anchor="middle" class="b">भाष्य • सम्प्रदाय</text><text x="460" y="225" text-anchor="middle" class="b">नामित व्याख्याकार</text>
+  <rect x="620" y="110" width="250" height="170" fill="#ecfccb" stroke="#4d7c0f" class="box"/><text x="745" y="155" text-anchor="middle" class="h">ऐतिहासिक विद्वत्ता</text><text x="745" y="195" text-anchor="middle" class="b">भाषा • पाठ-इतिहास</text><text x="745" y="225" text-anchor="middle" class="b">काल-निर्धारण</text>
+  <rect x="905" y="110" width="250" height="170" fill="#ffedd5" stroke="#c2410c" class="box"/><text x="1030" y="155" text-anchor="middle" class="h">वैज्ञानिक प्रमाण</text><text x="1030" y="195" text-anchor="middle" class="b">data • model</text><text x="1030" y="225" text-anchor="middle" class="b">uncertainty</text>
+  <path d="M175 290 L475 410 M460 290 L510 410 M745 290 L550 410 M1030 290 L585 410" class="arrow"/>
+  <rect x="360" y="420" width="480" height="130" fill="#dbeafe" stroke="#1d4ed8" class="box"/><text x="600" y="472" text-anchor="middle" class="h">प्रश्न-विशिष्ट तुलना</text><text x="600" y="510" text-anchor="middle" class="b">समान शब्द ≠ समान referent</text>
+  <path d="M600 555 L600 620" class="arrow"/><rect x="340" y="630" width="520" height="60" fill="#fff" stroke="#334e68" class="box"/><text x="600" y="669" text-anchor="middle" class="b">सीमित निष्कर्ष या “Evidence is currently inconclusive”</text>
+</svg>

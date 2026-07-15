@@ -14,6 +14,18 @@ for chapter in sorted((ROOT / "chapters").glob("[0-9][0-9]-*.md")):
         errors.append(f"{chapter.relative_to(ROOT)}: missing {', '.join(missing)}")
     if not re.search(r"### पुराणिक कथन.*?### पारम्परिक व्याख्या.*?### आधुनिक वैज्ञानिक दृष्टि", text, re.S):
         errors.append(f"{chapter.relative_to(ROOT)}: missing required source-separation headings")
+    citation_text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
+    cited = set()
+    for line in citation_text.splitlines():
+        if not line.startswith("[^"):
+            cited.update(re.findall(r"\[\^([^\]]+)\]", line))
+    defined = set(re.findall(r"^\[\^([^\]]+)\]:", citation_text, re.M))
+    unresolved = cited - defined
+    unused = defined - cited
+    if unresolved:
+        errors.append(f"{chapter.relative_to(ROOT)}: undefined citations {', '.join(sorted(unresolved))}")
+    if unused:
+        errors.append(f"{chapter.relative_to(ROOT)}: unused citation definitions {', '.join(sorted(unused))}")
 if errors:
     print("Markdown validation failed:\n" + "\n".join(errors))
     sys.exit(1)

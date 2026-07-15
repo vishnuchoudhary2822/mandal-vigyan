@@ -33,13 +33,13 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-extra_css: [stylesheets/print.css]
+extra_css: [stylesheets/print.css, assets/stylesheets/visuals.css]
 nav:
   - मुखपृष्ठ: index.md
   - विषय-सूची: summary.md
   - अध्याय:
-    - 01. परिचय: chapters/01-introduction.md
-    - 02. मण्डल क्या है: chapters/02-what-is-mandala.md
+    - 01. परिचय (पूर्ण): chapters/01-introduction.md
+    - 02. मण्डल क्या है (कार्याधीन): chapters/02-what-is-mandala.md
     - 03. वेदों के अनुसार ब्रह्माण्ड: chapters/03-universe-according-to-vedas.md
     - 04. नासदीय सूक्त: chapters/04-nasadiya-sukta.md
     - 05. हिरण्यगर्भ: chapters/05-hiranyagarbha.md
