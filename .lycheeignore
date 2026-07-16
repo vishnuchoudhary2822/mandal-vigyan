@@ -1,0 +1,6 @@
+# These sources are cited and manually verified, but reject GitHub Actions link-checker
+# requests (403/429/503). Keep exclusions exact; all other links remain checked in CI.
+^https://www\.jpl\.nasa\.gov/go/astronomy-and-physics/science/$
+^https://doi\.org/10\.1093/acprof:osobl/9780199891825\.001\.0001$
+^https://ebooks\.inflibnet\.ac\.in/icp05/chapter/arthasastra/$
+^https://www\.metmuseum\.org/met-publications/mandalas-mapping-the-buddhist-art-of-tibet$
