@@ -60,12 +60,12 @@ chapters.forEach(([number, title, path], index) => {
 
 function initialiseBook() {
   if (!window.St?.PageFlip) { position.textContent = 'पुस्तक प्रभाव load नहीं हो सका।'; return; }
-  // Keep the reader in portrait mode: one leaf must be visible at a time.
-  // The value adapts to small screens while remaining larger than half the desktop stage.
-  const singlePageMinWidth = Math.min(400, Math.max(260, Math.floor(stage.clientWidth)));
+  // Fixed dimensions force StPageFlip's portrait branch: exactly one leaf is rendered.
+  const singlePageWidth = Math.min(620, Math.max(280, Math.floor(stage.clientWidth)));
+  const singlePageHeight = Math.round(singlePageWidth * 815 / 620);
   pageFlip = new window.St.PageFlip(stage, {
-    width: 620, height: 815, size: 'stretch', minWidth: singlePageMinWidth, maxWidth: 620,
-    minHeight: 420, maxHeight: 920, maxShadowOpacity: 0.58, showCover: true,
+    width: singlePageWidth, height: singlePageHeight, size: 'fixed', minWidth: singlePageWidth, maxWidth: singlePageWidth,
+    minHeight: singlePageHeight, maxHeight: singlePageHeight, maxShadowOpacity: 0.58, showCover: true,
     mobileScrollSupport: false, drawShadow: true, flippingTime: 900, usePortrait: true,
     showPageCorners: true, disableFlipByClick: false
   });
