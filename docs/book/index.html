@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>पुस्तक मोड | मण्डल विज्ञान</title>
   <link rel="stylesheet" href="../assets/stylesheets/book-reader.css">
+  <script defer src="../assets/vendor/page-flip.browser.js"></script>
   <script defer src="../assets/javascripts/book-reader.js"></script>
 </head>
 <body>
@@ -25,19 +26,14 @@
         <nav id="bookToc" aria-label="अध्याय"></nav>
       </aside>
       <section class="book-desk" aria-live="polite">
-        <div class="book-stage">
-          <div class="book-sheet" id="bookSheet">
-            <div class="book-sheet-edge" aria-hidden="true"></div>
-            <iframe id="bookFrame" title="पुस्तक का वर्तमान अध्याय"></iframe>
-          </div>
-          <div class="book-spine" aria-hidden="true"></div>
-        </div>
+        <div class="book-stage" id="bookStage" aria-label="पृष्ठ पलटने वाली पुस्तक"></div>
         <footer class="book-controls">
           <button id="previousPage" type="button" aria-label="पिछला अध्याय">← <span>पिछला</span></button>
-          <p id="bookPosition">अध्याय 1</p>
+          <p id="bookPosition">पुस्तक तैयार हो रही है…</p>
           <button id="nextPage" type="button" aria-label="अगला अध्याय"><span>अगला</span> →</button>
         </footer>
-        <p class="book-note">पृष्ठ मोड़ने के लिए ← / → keys या controls प्रयोग करें। फोन पर अध्याय एक-पृष्ठ reading view में खुलते हैं।</p>
+        <p class="book-note">दाएँ/बाएँ कोने को पकड़कर खींचें, या controls दबाएँ। ऊपर या नीचे के कोने से पन्ना मोड़ना दोनों संभव है।</p>
+        <p class="book-credit">Page-turn effect: <a href="https://github.com/Nodlik/StPageFlip">StPageFlip</a> (MIT License).</p>
       </section>
     </section>
   </main>
