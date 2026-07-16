@@ -131,6 +131,8 @@ def main() -> None:
     docs = ROOT / "docs"
     docs.mkdir(exist_ok=True)
     website_readme = (ROOT / "README.md").read_text(encoding="utf-8").replace("(docs/contributing.md)", "(contributing.md)").replace("(docs/code-of-conduct.md)", "(code-of-conduct.md)")
+    hero = "# मण्डल विज्ञान — MANDAL VIGYAN\n\n> **पुराणिक ब्रह्माण्ड-विज्ञान और आधुनिक विज्ञान: स्रोत-आधारित, बहु-दृष्टिकोण शोध-पुस्तक।**"
+    website_readme = website_readme.replace(hero, f'<section class="mv-home-hero" markdown>\n\n{hero}\n\n</section>')
     (docs / "index.md").write_text(website_readme, encoding="utf-8")
     sync_copy(ROOT / "SUMMARY.md", docs / "summary.md")
     sync_copy(ROOT / "CONTRIBUTING.md", docs / "contributing.md")

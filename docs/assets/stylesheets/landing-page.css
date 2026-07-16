@@ -1,0 +1,64 @@
+/* MANDAL VIGYAN identity and an uncluttered research-book home page. */
+.md-header {
+  background: linear-gradient(105deg, #102a43 0%, #1d4e5f 52%, #0f766e 100%);
+  box-shadow: 0 .18rem .65rem rgba(15, 23, 42, .24);
+}
+
+.md-header__button.md-logo {
+  margin-right: .2rem;
+}
+
+.md-header__title {
+  font-weight: 700;
+  letter-spacing: .01em;
+}
+
+.md-tabs {
+  background: #12394d;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  color: #d1fae5;
+}
+
+.mv-home-hero {
+  background: linear-gradient(135deg, #e0f2fe 0%, #f0fdfa 100%);
+  border: 1px solid #7dd3c7;
+  border-radius: 1rem;
+  box-shadow: 0 .7rem 1.8rem rgba(15, 23, 42, .10);
+  margin: .6rem 0 2.2rem;
+  padding: clamp(1.4rem, 4vw, 3.2rem);
+}
+
+[data-md-color-scheme="slate"] .mv-home-hero {
+  background: linear-gradient(135deg, #102a43 0%, #134e4a 100%);
+  border-color: #2dd4bf;
+  box-shadow: 0 .7rem 1.8rem rgba(0, 0, 0, .28);
+}
+
+.mv-home-hero h1 {
+  color: #0f3b56;
+  font-size: clamp(2rem, 5vw, 3.15rem);
+  line-height: 1.18;
+  margin: 0 0 .8rem;
+}
+
+[data-md-color-scheme="slate"] .mv-home-hero h1 { color: #e0f2fe; }
+
+.mv-home-hero blockquote {
+  border-left: .25rem solid #0f766e;
+  color: #164e63;
+  font-size: 1.12rem;
+  margin: 0;
+  padding-left: 1rem;
+}
+
+[data-md-color-scheme="slate"] .mv-home-hero blockquote { color: #ccfbf1; }
+
+@media screen and (max-width: 44.9375em) {
+  .md-header__title { font-size: .86rem; }
+  .md-tabs__link { font-size: .72rem; }
+  .mv-home-hero { border-radius: .75rem; margin-top: .15rem; padding: 1.25rem; }
+  .mv-home-hero blockquote { font-size: 1rem; }
+}

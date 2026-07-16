@@ -33,7 +33,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-extra_css: [stylesheets/print.css, assets/stylesheets/visuals.css, assets/stylesheets/mobile-reading.css]
+extra_css: [stylesheets/print.css, assets/stylesheets/visuals.css, assets/stylesheets/mobile-reading.css, assets/stylesheets/landing-page.css]
 extra:
   generator: false
 copyright: "Copyright &copy; 2026 Vishnu Choudhary · MANDAL VIGYAN"
