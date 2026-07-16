@@ -120,6 +120,23 @@ Modern science में visualisation को evidential status केवल उ
 
 यह difference भारतीय intellectual history को छोटे खानों में बाँटने के लिए नहीं, बल्कि उसके genres को गंभीरता से लेने के लिए है। एक ही Sanskrit lexeme literary compilation, polity, ritual practice और visual culture में productive हो सकता है। उस बहुलता को स्वीकारना “meaninglessness” नहीं है; यह उस evidence का सम्मान है जो हर use के लिए अलग है।
 
+### दार्शनिक, तान्त्रिक और लोकप्रिय विस्तार
+
+बाद की धार्मिक-दार्शनिक परम्पराओं में *मण्डल* का meaning केवल lexical object तक सीमित नहीं रह सकता। Buddhist secondary reference इसे central principle, surrounding retinue, visual representation और practitioner-world relation तक फैलने वाली vocabulary में रखती है.[^eob-mandala] इस प्रकार का usage philosophical या soteriological function रख सकता है: वह “दुनिया किस आकार की है?” का empirical answer देने के बजाय साधना में world, body, deity और awareness के सम्बन्धों को व्यवस्थित कर सकता है। इस function को स्वीकारना उसे physics नहीं बनाता, और physics न होना उसे religious practice में निरर्थक नहीं बनाता।
+
+“Tantric mandala” भी एक blanket label नहीं है। कौन-सा text, कौन-सी lineage, कौन-सा deity system, किस initiation या ritual procedure में diagram प्रयुक्त है—ये questions answer किए बिना केवल concentric geometry को “tantric” कहना inadequate है। Met की Tibetan Buddhist study India–Tibet transmission और distinct Tibetan visual approach की बात करती है; इससे broad cultural connection का context मिलता है, पर हर Indian visual diagram की lineage या date सिद्ध नहीं होती.[^met-mandala] इस chapter में इसलिए tantric tradition पर exhaustive conclusion नहीं दिया गया है।
+
+आधुनिक popular usage में *mandala* कभी adult colouring pattern, therapeutic motif या generic “wholeness” symbol बन जाता है। यह semantic afterlife अध्ययन के लिए रोचक हो सकता है, पर इसे ancient Sanskrit source का direct meaning नहीं कहना चाहिए। वही discipline यहाँ लागू होता है जो राजमण्डल और galaxy analogy पर लागू हुआ: later reception को later reception के रूप में cite करें; उसे primary-text evidence में न बदलें।
+
+## दावों का वर्गीकरण
+
+| कथन | वर्ग | इस chapter का निष्कर्ष |
+| --- | --- | --- |
+| ऋग्वेद में मण्डल citation/book division है | A — शास्त्रीय वर्णन | Portal का reference convention इसे support करता है.[^vh-rigveda] |
+| Buddhist mandala ritual/visual sacred realm हो सकता है | B — पारम्परिक व्याख्या | Buddhist secondary orientation; अन्य traditions के लिए universal rule नहीं.[^eob-mandala] |
+| राजमण्डल state relations का analytic model है | D — ऐतिहासिक/पाठालोचनात्मक निष्कर्ष | *Arthaśāstra* Book 6 context; dating/authorship questions खुले हैं.[^inflibnet-artha][^olivelle-artha] |
+| Mandala ancient galaxy map है | G — अनिर्णायक / अपर्याप्त साक्ष्य | defined, testable correspondence उपलब्ध नहीं। |
+
 ## तुलना तालिका
 
 | विषय | पुराणिक कथन | पारम्परिक व्याख्या | आधुनिक वैज्ञानिक दृष्टि | प्रमाण/स्रोत |
@@ -165,8 +182,9 @@ Modern science में visualisation को evidential status केवल उ
 
 ## Key Takeaways
 
-- यह chapter *मण्डल* के genre-specific usages को अलग करेगा; एक अर्थ को सभी Sanskrit texts पर आरोपित नहीं करेगा।
+- *मण्डल* के textual, political, ritual-visual और popular uses अलग evidential categories हैं।
 - ऋग्वेद की organisational “मण्डल” division स्वयं में modern cosmographic map का प्रमाण नहीं है.[^vh-rigveda]
+- Religious cosmological symbolism और observational cosmology के claims को उनके अलग methods तथा evidence के साथ पढ़ना चाहिए.
 
 ## Research Gaps
 
