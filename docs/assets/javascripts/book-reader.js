@@ -60,12 +60,9 @@ chapters.forEach(([number, title, path], index) => {
 
 function initialiseBook() {
   if (!window.St?.PageFlip) { position.textContent = 'पुस्तक प्रभाव load नहीं हो सका।'; return; }
-  // Fixed dimensions force StPageFlip's portrait branch: exactly one leaf is rendered.
-  const singlePageWidth = Math.min(620, Math.max(280, Math.floor(stage.clientWidth)));
-  const singlePageHeight = Math.round(singlePageWidth * 815 / 620);
   pageFlip = new window.St.PageFlip(stage, {
-    width: singlePageWidth, height: singlePageHeight, size: 'fixed', minWidth: singlePageWidth, maxWidth: singlePageWidth,
-    minHeight: singlePageHeight, maxHeight: singlePageHeight, maxShadowOpacity: 0.58, showCover: true,
+    width: 640, height: 840, size: 'stretch', minWidth: 300, maxWidth: 1280,
+    minHeight: 420, maxHeight: 920, maxShadowOpacity: 0.58, showCover: true,
     mobileScrollSupport: false, drawShadow: true, flippingTime: 900, usePortrait: true,
     showPageCorners: true, disableFlipByClick: false
   });
