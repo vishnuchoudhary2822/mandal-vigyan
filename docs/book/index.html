@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="hi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>पुस्तक मोड | मण्डल विज्ञान</title>
+  <link rel="stylesheet" href="../assets/stylesheets/book-reader.css">
+  <script defer src="../assets/javascripts/book-reader.js"></script>
+</head>
+<body>
+  <main class="book-app" aria-label="मण्डल विज्ञान पुस्तक मोड">
+    <header class="book-toolbar">
+      <a class="book-brand" href="../">मण्डल विज्ञान <span>· पुस्तक मोड</span></a>
+      <a class="book-standard-link" href="../">सामान्य वेबसाइट</a>
+    </header>
+    <section class="book-reader">
+      <aside class="book-toc" aria-label="अध्याय सूची">
+        <p class="book-eyebrow">RESEARCH BOOK</p>
+        <h1>मण्डल विज्ञान</h1>
+        <p class="book-subtitle">पुराणिक ब्रह्माण्ड-विज्ञान और आधुनिक विज्ञान</p>
+        <nav id="bookToc" aria-label="अध्याय"></nav>
+      </aside>
+      <section class="book-desk" aria-live="polite">
+        <div class="book-stage">
+          <div class="book-sheet" id="bookSheet">
+            <div class="book-sheet-edge" aria-hidden="true"></div>
+            <iframe id="bookFrame" title="पुस्तक का वर्तमान अध्याय"></iframe>
+          </div>
+          <div class="book-spine" aria-hidden="true"></div>
+        </div>
+        <footer class="book-controls">
+          <button id="previousPage" type="button" aria-label="पिछला अध्याय">← <span>पिछला</span></button>
+          <p id="bookPosition">अध्याय 1</p>
+          <button id="nextPage" type="button" aria-label="अगला अध्याय"><span>अगला</span> →</button>
+        </footer>
+        <p class="book-note">पृष्ठ मोड़ने के लिए ← / → keys या controls प्रयोग करें। फोन पर अध्याय एक-पृष्ठ reading view में खुलते हैं।</p>
+      </section>
+    </section>
+  </main>
+</body>
+</html>

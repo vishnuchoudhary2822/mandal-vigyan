@@ -39,6 +39,7 @@ extra:
 copyright: "Copyright &copy; 2026 Vishnu Choudhary · MANDAL VIGYAN"
 nav:
   - मुखपृष्ठ: index.md
+  - पुस्तक मोड: book/index.html
   - विषय-सूची: summary.md
   - अध्याय:
     - 01. परिचय (पूर्ण): chapters/01-introduction.md
