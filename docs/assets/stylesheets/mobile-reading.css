@@ -1,0 +1,155 @@
+/* Reading-first layout for Hindi research prose on phones and tablets. */
+:root {
+  --mv-reading-width: 48rem;
+}
+
+.md-typeset {
+  font-size: 1rem;
+  line-height: 1.78;
+}
+
+.md-typeset p,
+.md-typeset li {
+  line-height: 1.78;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 1.32;
+}
+
+.md-typeset h2 {
+  border-bottom: .08rem solid var(--md-default-fg-color--lighter);
+  margin-top: 2.4em;
+  padding-bottom: .35em;
+}
+
+.md-content__inner {
+  margin-bottom: 2.5rem;
+}
+
+.md-content__inner > * {
+  max-width: var(--mv-reading-width);
+}
+
+.md-typeset table:not([class]) {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  -webkit-overflow-scrolling: touch;
+  white-space: normal;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  min-width: 9rem;
+  vertical-align: top;
+}
+
+.md-typeset pre,
+.md-typeset code {
+  overflow-wrap: anywhere;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  max-width: var(--mv-reading-width);
+}
+
+.md-typeset .footnote {
+  overflow-wrap: anywhere;
+}
+
+.md-typeset .footnote li {
+  margin-bottom: .8rem;
+}
+
+.research-figure figcaption {
+  background: var(--md-code-bg-color);
+  border-left: .18rem solid var(--md-accent-fg-color);
+  padding: .75rem .9rem;
+}
+
+@media screen and (max-width: 76.1875em) {
+  .md-content__inner > * {
+    max-width: none;
+  }
+}
+
+@media screen and (max-width: 44.9375em) {
+  .md-header__title {
+    font-size: .82rem;
+  }
+
+  .md-header__topic:first-child {
+    font-weight: 700;
+  }
+
+  .md-content {
+    padding: 0 .15rem;
+  }
+
+  .md-content__inner {
+    margin: 0 .45rem 2.2rem;
+    padding-top: .35rem;
+  }
+
+  .md-typeset {
+    font-size: 1.06rem;
+    line-height: 1.82;
+  }
+
+  .md-typeset p,
+  .md-typeset li {
+    line-height: 1.82;
+  }
+
+  .md-typeset h1 {
+    font-size: 1.75rem;
+    margin-bottom: .9rem;
+  }
+
+  .md-typeset h2 {
+    font-size: 1.35rem;
+    margin-top: 2rem;
+  }
+
+  .md-typeset h3 {
+    font-size: 1.15rem;
+  }
+
+  .md-typeset table:not([class]) th,
+  .md-typeset table:not([class]) td {
+    min-width: 10.5rem;
+    padding: .7rem .8rem;
+  }
+
+  .md-typeset .admonition,
+  .md-typeset details {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .md-typeset .admonition-title {
+    padding-left: 2.4rem;
+  }
+
+  .research-figure {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .research-figure figcaption {
+    font-size: .8rem;
+  }
+
+  .md-footer-meta__inner {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: .7rem;
+  }
+}
