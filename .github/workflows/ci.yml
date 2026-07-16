@@ -22,4 +22,4 @@ jobs:
       - run: mkdocs build --strict
       - uses: lycheeverse/lychee-action@v2
         with:
-          args: --no-progress README.md SUMMARY.md chapters/ appendix/
+          args: --no-progress --max-concurrency 4 --max-retries 5 --retry-wait-time 5 README.md SUMMARY.md chapters/ appendix/
