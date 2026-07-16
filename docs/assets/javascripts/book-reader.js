@@ -61,7 +61,7 @@ chapters.forEach(([number, title, path], index) => {
 function initialiseBook() {
   if (!window.St?.PageFlip) { position.textContent = 'पुस्तक प्रभाव load नहीं हो सका।'; return; }
   pageFlip = new window.St.PageFlip(stage, {
-    width: 640, height: 840, size: 'stretch', minWidth: 300, maxWidth: 1280,
+    width: 540, height: 710, size: 'stretch', minWidth: 280, maxWidth: 540,
     minHeight: 420, maxHeight: 920, maxShadowOpacity: 0.58, showCover: true,
     mobileScrollSupport: false, drawShadow: true, flippingTime: 900, usePortrait: true,
     showPageCorners: true, disableFlipByClick: false
